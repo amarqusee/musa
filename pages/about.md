@@ -4,6 +4,8 @@ title: About Me
 headshot: /assets/img/headshot.webp
 permalink: /about
 ---
+# Some fun facts
+I am learning to use markdown and github. This will be in _italics_. This will be **bold**.
 
 # Portfolio Jekyll Theme
 
